@@ -1,3 +1,3 @@
 # CSS1
 making an advertisement portfolio cover page with CSS
-https://user-images.githubusercontent.com/47099585/144542457-1f7492d3-46ab-4c02-855c-6b597ce55b5a.png
+![Screenshot 2021-12-03 at 9 19 38 AM](https://user-images.githubusercontent.com/47099585/144543233-b1e10b0a-f35f-4fb6-999e-d2332cdd233d.png)
